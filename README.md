@@ -1,2 +1,2 @@
 # cpp-tic-tiktactoe
-C++ tiktok beginner
+C++ tic-toe
